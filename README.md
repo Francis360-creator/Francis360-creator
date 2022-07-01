@@ -1,14 +1,12 @@
-Hi 👋 My name is Serge Francis
-==============================
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Serge
+=============================================================================================================================
 
-Student and Full stack developer
---------------------------------
+Student - Full stack developer
+------------------------------
 
 * 🌍  I'm based in Nebraska
 * 🖥️  See my portfolio at [me](http://francis360.com)
 * ✉️  You can contact me at [sergefrancis6@gmail.com](mailto:sergefrancis6@gmail.com)
-* 🧠  I'm learning NestJs
-* 🤝  I'm open to collaborating on all of my projects
 
 ### Skills
 
