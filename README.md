@@ -5,7 +5,7 @@ Student - Full stack developer
 ------------------------------
 
 * 🌍  I'm based in Nebraska
-* 🖥️  See my portfolio at [me](http://francis360.com)
+* 🖥️  See my portfolio at [me](http://sergefrancis.me)
 * ✉️  You can contact me at [sergefrancis6@gmail.com](mailto:sergefrancis6@gmail.com)
 
 ### Skills
